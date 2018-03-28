@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 朱子五經語類
-#+DATE: 2018-03-28 13:09:39.257231
+#+DATE: 2018-03-28 13:09:39.579932
 #+PROPERTY: ID KR1g0027
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 易二十
 <pb:KR1g0027_WYG_020-1a>¶
 　作本義欲將文王卦辭只大綱依文王本義略説至¶

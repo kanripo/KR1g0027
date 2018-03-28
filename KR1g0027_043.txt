@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 朱子五經語類
-#+DATE: 2018-03-28 13:09:39.386152
+#+DATE: 2018-03-28 13:09:39.708439
 #+PROPERTY: ID KR1g0027
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 書三
 <pb:KR1g0027_WYG_043-1a>¶
 安安只是箇重疊字言堯之聰明文思皆本於自然不¶
